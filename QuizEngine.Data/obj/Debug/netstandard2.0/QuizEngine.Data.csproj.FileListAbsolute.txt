@@ -1,0 +1,9 @@
+C:\Users\Laptop\source\repos\QuizEngine\QuizEngine.Data\obj\Debug\netstandard2.0\QuizEngine.Data.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\QuizEngine\QuizEngine.Data\obj\Debug\netstandard2.0\QuizEngine.Data.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\QuizEngine\QuizEngine.Data\obj\Debug\netstandard2.0\QuizEngine.Data.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\QuizEngine\QuizEngine.Data\obj\Debug\netstandard2.0\QuizEngine.Data.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\QuizEngine\QuizEngine.Data\bin\Debug\netstandard2.0\QuizEngine.Data.deps.json
+C:\Users\Laptop\source\repos\QuizEngine\QuizEngine.Data\bin\Debug\netstandard2.0\QuizEngine.Data.dll
+C:\Users\Laptop\source\repos\QuizEngine\QuizEngine.Data\bin\Debug\netstandard2.0\QuizEngine.Data.pdb
+C:\Users\Laptop\source\repos\QuizEngine\QuizEngine.Data\obj\Debug\netstandard2.0\QuizEngine.Data.dll
+C:\Users\Laptop\source\repos\QuizEngine\QuizEngine.Data\obj\Debug\netstandard2.0\QuizEngine.Data.pdb
